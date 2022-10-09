@@ -1,5 +1,5 @@
 ---
-title: VexRiscv QDemo - adds a simple SIMD_ADD instruction
+title: VexRiscv Demo - adds a simple SIMD_ADD instruction
 date: 2022-10-09 21:35:16
 tags:
 ---
