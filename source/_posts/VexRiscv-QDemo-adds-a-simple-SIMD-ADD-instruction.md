@@ -23,7 +23,7 @@ $ ./configure
 $ make
 $ sudo make install
 ```
-## Vexriscv
+## VexRiscv
 ```bash
 $ git clone https://github.com/SpinalHDL/VexRiscv.git
 $ cd VexRiscv
